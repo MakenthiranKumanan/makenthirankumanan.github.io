@@ -1,0 +1,23 @@
+style:
+8141  discription colour
+8159  sub-heading colour
+8728  heading colour
+5452  Adobe graph
+8137  full backgrond
+8176  head bar colour
+8484  aerow mark box colour
+8678  edu,skill,award colour
+8735  anna university,TNsb etc
+5416  adobe box colour
+8378  M circle colour
+8388  M colour
+8361  akenthiran colour
+8341  menu colour
+8301  menu backgrond colour
+8848  percentage colour
+
+
+
+lavender  #7d488e  #A76BCE
+electric purple  #BF00FF
+adobe box colour #2e2e2e
