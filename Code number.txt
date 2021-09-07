@@ -17,7 +17,8 @@ style:
 8848  percentage colour
 
 
-
-lavender  #7d488e  #A76BCE
+purple in enroll me = 7d00c6
+green in enroll me = 00E005
+lavender  #7d488e  #A76BCE (it's wrong old)
 electric purple  #BF00FF
 adobe box colour #2e2e2e
