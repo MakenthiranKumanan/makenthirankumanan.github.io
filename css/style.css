@@ -8580,13 +8580,13 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #7d00c6;
-    border: 1px solid #7d00c6 !important;
-    color: #fff !important; }
+    background: #3cff3f8c;
+    border: 1px solid #00e0046b !important;
+    color: #000000 !important; }
     .btn.btn-primary:hover {
       border: 1px solid #7d00c6 !important;
-      background: #7d00c6 !important;
-      color: #000000 !important; }
+      background: #00E005 !important;
+      color: #27003d !important; }
     .btn.btn-primary.btn-outline-primary {
       border: 2px solid #7d00c6 !important;
       background: transparent !important;
@@ -8650,7 +8650,7 @@ h1, h2, h3, h4, h5,
       width: calc(100% - 130px); }
       .ftco-about ul.about-info li span:first-child {
         font-weight: 600;
-        color: #000000;
+        color: #999999;
         width: 130px; }
 
 .ftco-about .counter-wrap .text p {
