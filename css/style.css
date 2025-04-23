@@ -8417,12 +8417,7 @@ h1, h2, h3, h4, h5,
 .slider-text h2 {
   font-weight: 800; }
   .slider-text h2 span {
-<<<<<<< Updated upstream
     color: #7d00c6;}
-=======
-    color: #7d00c6;
-    text-decoration: unset; }
->>>>>>> Stashed changes
 
 .slider-text p {
   font-size: 20px;
